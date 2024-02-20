@@ -1,0 +1,3 @@
+[submodule "proj2"]
+	path = proj2
+	url = git+ssh://git@github.com/RichardWarfield/proj2
